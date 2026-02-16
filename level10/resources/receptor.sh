@@ -1,0 +1,1 @@
+while true; do nc -lk 6969; done
